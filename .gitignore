@@ -1,0 +1,8 @@
+*.orig
+*.exe
+*.dll
+*.userprefs
+UDPEchoPinger/bin/*
+UDPEchoPinger/obj/*
+*.suo
+*.csproj.user
